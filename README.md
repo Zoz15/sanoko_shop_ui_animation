@@ -1,4 +1,4 @@
-# sanoko_shop
+# sanoko
 
 A new Flutter project.
 

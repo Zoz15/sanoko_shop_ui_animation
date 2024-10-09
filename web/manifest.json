@@ -1,6 +1,6 @@
 {
-    "name": "sanoko_shop",
-    "short_name": "sanoko_shop",
+    "name": "sanoko",
+    "short_name": "sanoko",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

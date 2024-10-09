@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "sanoko_shop" "\0"
+            VALUE "FileDescription", "sanoko" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "sanoko_shop" "\0"
+            VALUE "InternalName", "sanoko" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "sanoko_shop.exe" "\0"
-            VALUE "ProductName", "sanoko_shop" "\0"
+            VALUE "OriginalFilename", "sanoko.exe" "\0"
+            VALUE "ProductName", "sanoko" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

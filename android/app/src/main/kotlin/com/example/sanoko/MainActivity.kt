@@ -1,4 +1,4 @@
-package com.example.sanoko_shop
+package com.example.sanoko
 
 import io.flutter.embedding.android.FlutterActivity
 

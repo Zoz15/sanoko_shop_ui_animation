@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-  import 'package:sanoko_shop2/screens/frist_screen.dart';
-import 'package:sanoko_shop2/screens/home_screen.dart';
-import 'package:sanoko_shop2/var.dart';
-
+import 'package:sanoko/screens/frist_screen.dart';
+import 'package:sanoko/var.dart';
 void main() async {
   runApp(const MyApp());
 }

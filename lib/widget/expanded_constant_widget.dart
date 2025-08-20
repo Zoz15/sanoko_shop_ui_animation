@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:sanoko_shop2/var.dart';
+import 'package:sanoko/var.dart';
 
 class ExpandedContentWidget extends StatelessWidget {
   const ExpandedContentWidget({

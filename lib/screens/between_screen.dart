@@ -1,7 +1,7 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:sanoko_shop2/var.dart';
+import 'package:sanoko/var.dart';
 
 final player = AudioPlayer();
 

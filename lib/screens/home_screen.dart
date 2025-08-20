@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:iconsax/iconsax.dart';
 import 'dart:math' as math;
-import 'package:sanoko_shop2/var.dart';
+import 'package:sanoko/var.dart';
 
 import '../widget/expanded_constant_widget.dart';
 
